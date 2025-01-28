@@ -1,0 +1,15 @@
+{
+  "name": "visa-reqs",
+  "version": "1.0.0",
+  "description": "An AI powered tool to help find visa requirements based on passport and destination country",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reesewesterhoff/visa-reqs.git"
+  },
+  "author": "reese.westerhoff@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/reesewesterhoff/visa-reqs/issues"
+  },
+  "homepage": "https://github.com/reesewesterhoff/visa-reqs#readme"
+}
