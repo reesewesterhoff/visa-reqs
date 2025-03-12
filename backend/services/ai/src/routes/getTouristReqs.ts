@@ -15,7 +15,7 @@ export const getTouristReqs = async (
       });
 
     const result = await generateContent(
-      `Gather the necessary travel information for a person with a passport from ${passport} traveling to ${destination}`
+      `Gather the necessary travel information for a person with a passport from ${passport} traveling to ${destination} on a tourist visa.`
     );
     res.send(JSON.parse(result || ""));
   } catch (err: any) {

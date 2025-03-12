@@ -1,15 +1,12 @@
 import { CustomError } from "./CustomError";
+import { ErrorParams } from "./models";
 
 export class NotFoundError extends CustomError {
   private static readonly _statusCode = 404;
   private readonly _code: number;
   private readonly _context: { [key: string]: any };
 
-  constructor(params?: {
-    code?: number;
-    message?: string;
-    context?: { [key: string]: any };
-  }) {
+  constructor(params?: ErrorParams) {
     const { code, message } = params || {};
 
     super(message || "Not found");
