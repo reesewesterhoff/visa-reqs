@@ -63,8 +63,6 @@ export async function generateContent(
     const result = await useGenerativeModel(apiKey, model).generateContent(
       prompt
     );
-    // @ts-ignore
-    console.log("response", result.response.candidates[0].content.parts);
     return result.response.text();
   } catch (err: any) {
     console.error("Error generating content!", err);
