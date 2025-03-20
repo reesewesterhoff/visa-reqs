@@ -1,0 +1,48 @@
+{
+  "overview": "Traveling from the USA to Russia requires a tourist visa.  US citizens must demonstrate sufficient funds for their trip, have a valid passport with at least six months validity remaining, and obtain an official invitation (tourist voucher) from a Russian-licensed tourist operator. Specific vaccination requirements may vary depending on individual circumstances, so it's important to consult with a healthcare professional or the CDC. Travel advisories are in place, and travelers should be aware of current political tensions and potential risks.",
+  "passportRequirements": "A valid US passport is required with at least six months of validity remaining after the intended departure date from Russia.",
+  "financialRequirements": "Evidence of sufficient financial resources to cover the travel expenses in Russia is needed. Travelers can present bank statements, or credit card statements. The exact amount required can vary, so confirming with the Russian embassy or consulate is advised.",
+  "vaccinationRequirements": "Currently, there are official vaccination requirements for most travelers, although it is important to consult the CDC website for the most up-to-date information on recommended or required vaccinations for Russia, which can vary based on health conditions.",
+  "process": [
+    "Obtain an official invitation (tourist voucher) from a licensed Russian tour operator or hotel.",
+    "Complete the online visa application form.",
+    "Print the completed application form and sign it.",
+    "Gather required documentation, including passport, photo, invitation, and proof of insurance or financial means.",
+    "Schedule an appointment at the nearest Russian embassy or consulate.",
+    "Attend the interview and submit your application.",
+    "Pay the required visa fee.",
+    "Collect your passport with the issued visa."
+  ],
+  "restrictions": {
+    "entryRestrictions": "Russia has restricted entry for certain nationalities due to ongoing geopolitical situations. Always check the latest travel advisories and entry restrictions before your trip.",
+    "exitRestrictions": "Be aware of potential exit restrictions. Always stay updated on the current political situation, which can impact exit conditions."
+  },
+  "travelWarnings": [
+    {
+      "warningName": "Reconsider Travel",
+      "warningSource": "US Department of State",
+      "warningLink": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/russia-travel-advisory.html"
+    },
+    {
+      "warningName": "Do Not Travel",
+      "warningSource": "US Department of State",
+      "warningLink": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ukraine-travel-advisory.html"
+    }
+  ],
+  "miscellaneous": [
+    "Travel insurance is highly recommended.",
+    "Be aware of local laws and customs.",
+    "Register with the US embassy upon arrival in Russia."
+  ],
+  "contactInfo": {
+    "name": "Embassy of the Russian Federation in the United States of America",
+    "email": "rusemb.usa@mid.ru",
+    "phoneNumber": "+1-202-298-5700",
+    "address": "2650 Wisconsin Ave., NW, Washington, DC  20007"
+  },
+  "sources": [
+    "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Russia.html",
+    "https://ru.usembassy.gov/visas/",
+    "https://www.evisa.kdmid.ru/en-US/Home/Index"
+  ]
+}
