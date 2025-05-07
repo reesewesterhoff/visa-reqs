@@ -11,6 +11,10 @@
   --color-secondary: var(--color-fuchsia-800);
   --color-accent: var(--color-cyan-800);
 
+  --color-success: var(--color-green-700);
+  --color-error: var(--color-red-600);
+  --color-warning: var(--color-amber-700);
+
   --section-gap: 160px;
 }
 
@@ -25,6 +29,10 @@
     --color-primary: var(--color-sky-500);
     --color-secondary: var(--color-teal-500);
     --color-accent: var(--color-purple-300);
+
+    --color-success: var(--color-emerald-500);
+    --color-error: var(--color-red-500);
+    --color-warning: var(--color-amber-600);
   }
 }
 
@@ -38,6 +46,10 @@
   --color-primary: var(--color-primary);
   --color-secondary: var(--color-secondary);
   --color-accent: var(--color-accent);
+
+  --color-success: var(--color-success);
+  --color-error: var(--color-error);
+  --color-warning: var(--color-warning);
 }
 
 *,
