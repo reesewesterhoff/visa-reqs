@@ -37,12 +37,6 @@
 }
 
 @theme {
-  --color-background: var(--color-background);
-  --color-border: var(--color-border);
-
-  --color-heading: var(--color-heading);
-  --color-text: var(--color-text);
-
   --color-primary: var(--color-primary);
   --color-secondary: var(--color-secondary);
   --color-accent: var(--color-accent);
@@ -50,6 +44,8 @@
   --color-success: var(--color-success);
   --color-error: var(--color-error);
   --color-warning: var(--color-warning);
+
+  --color-border: var(--color-border);
 }
 
 *,
